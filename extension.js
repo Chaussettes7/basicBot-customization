@@ -56,7 +56,7 @@
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
         botName: "basicBot",
-        language: "english",
+        language: "french",
         startupCap: 1, // 1-200
         startupVolume: 0, // 0-100
         startupEmoji: false, // true or false
@@ -100,7 +100,7 @@
         opLink: null,
         rulesLink: null,
         themeLink: null,
-        fbLink: null,
+        fbLink: "https://www.facebook.com/HearthStoneFRS?fref=ts",
         youtubeLink: null,
         website: null,
         intervalMessages: [],
