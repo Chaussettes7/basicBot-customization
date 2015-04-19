@@ -100,7 +100,7 @@
         opLink: null,
         rulesLink: null,
         themeLink: null,
-        fbLink: null,
+        fbLink: "https://www.facebook.com/HearthStoneFRS?fref=ts",
         youtubeLink: null,
         website: null,
         intervalMessages: [],
