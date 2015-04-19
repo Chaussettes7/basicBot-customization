@@ -100,8 +100,8 @@
         opLink: null,
         rulesLink: null,
         themeLink: null,
-        fbLink: "https://www.facebook.com/HearthStoneFRS?fref=ts",
-        youtubeLink: null,
+        fbLink: null
+        youtubeLink: true "http://tinyurl.com/oot8ued",
         website: null,
         intervalMessages: [],
         messageInterval: 5,
