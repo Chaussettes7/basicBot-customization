@@ -100,8 +100,10 @@
         opLink: null,
         rulesLink: null,
         themeLink: null,
-        fbLink: null
-        youtubeLink: true "http://tinyurl.com/oot8ued",
+        fbLink: true Vous pouvez nous aimer sur Facebook ici: 'https://www.facebook.com/HearthStoneFRS?
+fref=ts',
+        youtubeLink: true Vous pouvez vous abonner à notre châine Youtube ici: 'https://www.youtube.com/user/hearthstone
+fr',
         website: null,
         intervalMessages: [],
         messageInterval: 5,
